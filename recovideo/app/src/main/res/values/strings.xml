@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecOVideo</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_recommendation_tabs">RecommendationTabs</string>
+    <string name="title_myRecommendations">My Recommendations</string>
+    <string name="title_peopleIRecommend">People I Recommend</string>
+    <string name="title_activity_record_stuff">RecordStuff</string>
+    <string name="title_activity_question_list">QuestionListActivity</string>
+</resources>
